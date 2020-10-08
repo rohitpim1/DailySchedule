@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DailySchedule/static/css/main.ab7b8948.chunk.css",
+    "main.js": "/DailySchedule/static/js/main.5db395be.chunk.js",
+    "main.js.map": "/DailySchedule/static/js/main.5db395be.chunk.js.map",
+    "runtime-main.js": "/DailySchedule/static/js/runtime-main.adde0215.js",
+    "runtime-main.js.map": "/DailySchedule/static/js/runtime-main.adde0215.js.map",
+    "static/js/2.b5372257.chunk.js": "/DailySchedule/static/js/2.b5372257.chunk.js",
+    "static/js/2.b5372257.chunk.js.map": "/DailySchedule/static/js/2.b5372257.chunk.js.map",
+    "index.html": "/DailySchedule/index.html",
+    "precache-manifest.3925ba123296d8e358900fedfc0ff736.js": "/DailySchedule/precache-manifest.3925ba123296d8e358900fedfc0ff736.js",
+    "service-worker.js": "/DailySchedule/service-worker.js",
+    "static/css/main.ab7b8948.chunk.css.map": "/DailySchedule/static/css/main.ab7b8948.chunk.css.map",
+    "static/js/2.b5372257.chunk.js.LICENSE.txt": "/DailySchedule/static/js/2.b5372257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adde0215.js",
+    "static/js/2.b5372257.chunk.js",
+    "static/css/main.ab7b8948.chunk.css",
+    "static/js/main.5db395be.chunk.js"
+  ]
+}
